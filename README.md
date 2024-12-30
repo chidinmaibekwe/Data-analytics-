@@ -1,1 +1,1 @@
-# Data-analytics-
+ This data provides insights on average shipments costs and volume for different countries, which countries receive the highest volume of ARV shipments and how does it correlate with shipment costs, how commodity prices vary  by supplier and region, the average delivery time and types, the supplier with the most effective treatment and how does it differ across regions and commodity, which supplier provides the most cost-effective shipment solution based on total volume and cost, relationship between commodity types.
